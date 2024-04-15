@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "name": "ExamplePhone X",
+      "model": "X-1000",
+      "price": 999.99,
+      "stars": 4.5
+    },
+    {
+      "id": 2,
+      "name": "TechGadget Y",
+      "model": "Y-2000",
+      "price": 799.99,
+      "stars": 4.2
+    },
+    {
+      "id": 3,
+      "name": "SmartDevice Z",
+      "model": "Z-3000",
+      "price": 699.99,
+      "stars": 4.0
+    },
+    {
+      "id": 4,
+      "name": "GizmoPhone Alpha",
+      "model": "Alpha-1",
+      "price": 1099.99,
+      "stars": 4.7
+    },
+    {
+      "id": 5,
+      "name": "InnovaCell Beta",
+      "model": "Beta-200",
+      "price": 899.99,
+      "stars": 4.4
+    },
+    {
+      "id": 6,
+      "name": "NeoTech Gamma",
+      "model": "Gamma-10",
+      "price": 749.99,
+      "stars": 4.1
+    },
+    {
+      "id": 7,
+      "name": "FuturistX Delta",
+      "model": "Delta-500",
+      "price": 1299.99,
+      "stars": 4.8
+    },
+    {
+      "id": 8,
+      "name": "NextGen Epsilon",
+      "model": "Epsilon-800",
+      "price": 599.99,
+      "stars": 3.9
+    },
+    {
+      "id": 9,
+      "name": "OmegaTech Zeta",
+      "model": "Zeta-700",
+      "price": 999.99,
+      "stars": 4.6
+    },
+    {
+      "id": 10,
+      "name": "SuperGizmo Theta",
+      "model": "Theta-300",
+      "price": 849.99,
+      "stars": 4.3
+    },
+    {
+      "id": 11,
+      "name": "UltraCell Iota",
+      "model": "Iota-600",
+      "price": 679.99,
+      "stars": 4.0
+    },
+    {
+      "id": 12,
+      "name": "EcoSmart Kappa",
+      "model": "Kappa-400",
+      "price": 799.99,
+      "stars": 4.2
+    },
+    {
+      "id": 13,
+      "name": "StarTech Lambda",
+      "model": "Lambda-900",
+      "price": 899.99,
+      "stars": 4.4
+    },
+    {
+      "id": 14,
+      "name": "TechNova Mu",
+      "model": "Mu-1000",
+      "price": 999.99,
+      "stars": 4.5
+    },
+    {
+      "id": 15,
+      "name": "Infinity Nexus",
+      "model": "Nexus-1100",
+      "price": 1199.99,
+      "stars": 4.7
+    },
+    {
+      "id": 16,
+      "name": "Xenon Omega",
+      "model": "Omega-1200",
+      "price": 1399.99,
+      "stars": 4.9
+    }
+  ]
+  
